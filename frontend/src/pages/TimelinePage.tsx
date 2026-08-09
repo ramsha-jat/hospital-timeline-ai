@@ -5,7 +5,7 @@ import {
   Activity, Search, ChevronDown, ChevronRight, Database
 } from "lucide-react";
 
-const API = "/api";
+const API = "https://hospital-timeline-ai-production.up.railway.app/api";
 
 const CATEGORY_CONFIG: Record<string, { icon: string; color: string; bg: string }> = {
   admission:      { icon: "🏥", color: "text-primary-600",  bg: "bg-primary-100"  },
