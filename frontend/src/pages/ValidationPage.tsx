@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import { ShieldCheck, CheckCircle2, AlertTriangle, Database } from "lucide-react";
 
-const API = "/api";
+const API = "https://hospital-timeline-ai-production.up.railway.app/api";
 
 const ValidationPage = () => {
   const [inputId, setInputId] = useState("");
