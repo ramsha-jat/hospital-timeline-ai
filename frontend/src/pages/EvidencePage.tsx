@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { Link2, Database } from "lucide-react";
 
-const API = "/api";
+const API = "https://hospital-timeline-ai-production.up.railway.app/api";
 
 const EvidencePage = () => {
   const [collection, setCollection] = useState("labevents");
