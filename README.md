@@ -29,6 +29,9 @@ The system provides:
 * 🤖 Optional Gemini fallback for novel questions
 * 🗄️ MongoDB-based structured data storage
 
+## 🎥 Project Demo
+
+https://github.com/user-attachments/assets/https://github.com/ramsha-jat/hospital-timeline-ai/releases/tag/v1.0.0
 ---
 
 ## 📋 Table of Contents
