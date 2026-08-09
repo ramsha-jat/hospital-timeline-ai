@@ -8,7 +8,7 @@ import {
   BedDouble, FlaskConical, Heart, Wind, Droplets, Search
 } from "lucide-react";
 
-const API = "/api";
+const API = "https://hospital-timeline-ai-production.up.railway.app/api";
 
 const CATEGORY_ICONS: Record<string, any> = {
   medications: Pill, abnormal_labs: TestTube2, all_labs: TestTube2,
