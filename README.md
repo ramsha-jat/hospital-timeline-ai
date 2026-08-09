@@ -549,6 +549,6 @@ The dataset must not be used for re-identification, and patient-level data must 
 
 ---
 
-live link https://vercel.com/ramsha-jats-projects/hospital-timeline-ai
+live link (https://hospital-timeline-ai.vercel.app/)
 
 ### Built for research, reproducibility, and evidence-grounded patient timeline exploration.
